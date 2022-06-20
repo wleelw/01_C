@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OneTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_hint">摹客区某镇2021年度最新土地流转新政...</string>
+    <string name="hine_message_text">养老金发放最新政策新的林木良种名录，聪明人已经看到商机...</string>
+    <string name="hint_time">热门资讯 2020-08-15 18:15</string>
+</resources>
